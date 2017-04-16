@@ -1,7 +1,7 @@
 ﻿#Firefly
 =======
 
-####firefly 分支gfirefly介绍
+#### firefly 分支gfirefly介绍
 
 firefly-gevent 是firefly的gevent版本。相比现在的firefly版本使用的twisted，gevent更加的精简。<br/>
 firefly-gevent结合了gevent的性能，封装了网络IO处理、数据库IO读写缓存、分布式进程间接口调用。这样使得游戏服务端的开发变得更加的轻松简单，开发者不必在面对这些的技术难题，专心致力于游戏玩法逻辑的开发。<br/>
